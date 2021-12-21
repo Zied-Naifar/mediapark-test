@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/).
 
+Create a with .env and set those information
+
+REACT_APP_ACCESS_KEY=xxxxxxxxx
+REACT_APP_SECRET_KEY=xxxxxxxxx
+REACT_APP_CALLBACK_URL=http://localhost:3000/images
+
 ## Available Scripts
 
 In the project directory, you can run:
